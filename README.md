@@ -1,4 +1,4 @@
-Convolutional Neural Network     THIS PROJECT WAS NOT AN ORIGINAL IDEA *
+Convolutional Neural Network             (THIS PROJECT WAS NOT AN ORIGINAL IDEA *)
 
 - CNN's are used to perform image classification and then proceeds to decide an outcome based on the information given
 - Different than a regular Neural Network
