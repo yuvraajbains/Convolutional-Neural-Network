@@ -3,7 +3,7 @@ Convolutional Neural Network             (THIS PROJECT WAS NOT AN ORIGINAL IDEA 
 - CNN's are used to perform image classification and then proceeds to decide an outcome based on the information given
 - Different than a regular Neural Network
 
-
+"""In context there are many examples as this on the internet although I switched the main run in the cnn.py file to use a different flow control so that my computer could run it smoother"""
 
 Convolution:
 
