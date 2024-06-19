@@ -11,7 +11,7 @@ A 3x3 filter has been used
    - Need to import numpy as np
        - Download in CMD, pip install numpy
        - pip show numpy, to observe if the environment is installed on your CPU
-*
+
 - In the conv.py file a Class is created to store objects within it contains several functions
 - Conv3x3 takes in one argument which is the number of filters and then uses Numpy's built in np.random.randn function
   to generate random numbers freely
