@@ -1,11 +1,13 @@
-Convolutional Neural Network             (THIS PROJECT WAS NOT AN ORIGINAL IDEA *)
+# Convolutional Neural Network             
+
+(THIS PROJECT WAS NOT AN ORIGINAL IDEA *)
 
 - CNN's are used to perform image classification and then proceeds to decide an outcome based on the information given
 - Different than a regular Neural Network
 
 """In context there are many examples as this on the internet although I switched the main run in the cnn.py file to use a different flow control so that my computer could run it smoother"""
 
-Convolution:
+# Convolution:
 
 A 3x3 filter has been used
    - Need to import numpy as np
@@ -21,19 +23,19 @@ A 3x3 filter has been used
 - Several different built in functions are used to make the process easier for the user to observe and operate
 
 
-  Moving Forward...
+ # Moving Forward...
 
   - mnist is downloaded on your CPU
   - pip install mnist
   - This continues as a part of the convolution process
  
-Pooling:
+# Pooling:
 
 A MaxCool class file with a MaxPool2 class is implemented and works relatively similar to Conv3x3 but here the max is found 
 
 np.amax() = Our primary max method 
 
-General Statements:
+# General Statements:
 
 Includes (Conv layers, Pooling layers, Softmax layers):
 
