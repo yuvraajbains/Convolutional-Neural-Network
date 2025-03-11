@@ -36,7 +36,7 @@ def forward(image, label):
 
     return out, loss, acc
 
-print('MNIST CNN is now fully initialized!')
+print('MNIST CNN is now fully initialized into set 1!')
 
 loss = 0
 num_correct = 0
